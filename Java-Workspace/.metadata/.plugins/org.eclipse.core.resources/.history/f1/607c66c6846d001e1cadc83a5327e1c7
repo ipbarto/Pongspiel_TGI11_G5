@@ -1,0 +1,32 @@
+package packageSW06;
+import java.util.Scanner;
+public class Aufgabe_pyramide {
+	
+	public static void main(String[] args) 
+	{
+		
+	System.out.println("Berechnung einer Pyramide");
+	double Kathete_a;
+	double Kathete_b;
+	double Hypotenuse_c;
+	double Umfang;
+	double Flaeche;
+	double Winkel_a;
+	double Winkel_b;
+	
+	Scanner tastatur; 	//Tastaturobjekt wird deklariert
+	tastatur = new Scanner(System.in);	//Tastaturobjekt wird erstellt
+	
+	System.out.println("Kathete A eingeben: ");
+	Kathete_a = tastatur.nextDouble();
+	
+	System.out.println("Kathete B eingeben: ");
+	Kathete_b = tastatur.nextDouble();
+	
+	
+	
+	
+	
+	}
+	
+}

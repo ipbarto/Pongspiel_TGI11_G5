@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+H:\Documents\Schule\TGI 11-2\IT-Software (Sautter)\Java-Workspace\.metadata\.plugins\org.eclipse.jdt.core
+4055875374.index
+1865797976.index
+917175758.index

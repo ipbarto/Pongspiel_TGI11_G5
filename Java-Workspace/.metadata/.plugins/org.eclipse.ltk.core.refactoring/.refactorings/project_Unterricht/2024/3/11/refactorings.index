@@ -1,0 +1,14 @@
+1710185126484	Convert local variable 'radButtonGroup' to field
+1710185676477	Convert local variable 'Name' to field
+1710185681927	Convert local variable 'Audi' to field
+1710185685039	Convert local variable 'Porsche' to field
+1710185687940	Convert local variable 'Mercedes' to field
+1710185748607	Convert local variable 'Kilometer' to field
+1710186287045	Convert local variable 'freund' to field
+1710186289503	Convert local variable 'sitzheizunhg' to field
+1710274227950	Delete element
+1710274247880	Rename package 'Staetereisen2'
+1710274862133	Convert local variable 'Radiobutten' to field
+1710274969865	Convert local variable 'Strecke' to field
+1710274995045	Convert local variable 'Anzahlpersonen' to field
+1710275750446	Convert local variable 'kostenproKM' to field
