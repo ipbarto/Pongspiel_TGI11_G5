@@ -1,4 +1,2 @@
 # ScrumsTeam5
-## This is a Test Headline
-### Test
-#### I am not testing Joke
+This is a **repository** for the game **Pong**
