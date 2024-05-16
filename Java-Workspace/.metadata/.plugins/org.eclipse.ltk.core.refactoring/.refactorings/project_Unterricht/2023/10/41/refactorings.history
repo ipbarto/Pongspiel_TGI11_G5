@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract local variable &apos;scanner&apos; from expression &apos;tastatur=new Scanner(System.in)&apos;&#x0D;&#x0A;- Original project: &apos;project_Unterricht&apos;&#x0D;&#x0A;- Variable name: &apos;scanner&apos;&#x0D;&#x0A;- Destination method: &apos;packageSW05.Aufgabe_1.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;tastatur=new Scanner(System.in)&apos;" description="Extract local variable &apos;scanner&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;packageSW05{Aufgabe_1.java" name="scanner" replace="false" selection="700 33" stamp="1697006079466" varType="false" version="1.0"/>
-</session>

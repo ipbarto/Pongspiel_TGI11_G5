@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Grundrechenarten1.java&apos; to &apos;project_Unterricht/src/packageSW02Sa&apos;&#x0D;&#x0A;- Original project: &apos;project_Unterricht&apos;&#x0D;&#x0A;- Destination element: &apos;project_Unterricht/src/packageSW02Sa&apos;&#x0D;&#x0A;- Original element: &apos;packageSW02Sa.Grundrechenarten1.java&apos;" description="Copy compilation unit" destination="/src&lt;packageSW02Sa" element1="/src&lt;packageSW02Sa{Grundrechenarten1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1695193897803" units="1" version="1.0"/>
-</session>
