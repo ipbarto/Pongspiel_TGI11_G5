@@ -1,3 +1,3 @@
-# TGI11_G5_Pong
+# TGI11_G5_Pongspiel
 ## normal
 ### test
