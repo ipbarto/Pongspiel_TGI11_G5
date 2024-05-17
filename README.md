@@ -1,2 +1,1 @@
-# ScrumsTeam5
-This is a **repository** for the game **Pong**
+# TGI11_G5_Pong
